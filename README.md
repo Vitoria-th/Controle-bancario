@@ -24,7 +24,7 @@ Para rodar esse programa você precisa ter Python instalado no seu computador.
 **Clonando o Repositório**
 
 ```
-$ git clone git@github.com:Vitoria-th/Controle-bancario.git
+$ git clone git@github.com:vitori4th/Controle-bancario.git
 
 $ cd Controle-bancario
 ```
